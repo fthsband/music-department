@@ -6,3 +6,17 @@ html{
 img {
     height: 56px;
 }
+
+h1, h2 {
+    color: #002454;
+}
+
+h4 {
+    color: #00439c
+}
+
+h4 > a {
+    color: inherit;
+    font-weight: bold;
+    font-style: italic;
+}
