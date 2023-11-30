@@ -15,7 +15,7 @@ h4, h6 {
     color: #00439c
 }
 
-h4 > a, h6 > a {
+h4 > a, h6 > a, h1 > a{
     color: inherit;
     font-weight: bold;
     font-style: italic;
