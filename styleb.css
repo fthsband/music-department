@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Text&family=Space+Grotesk:wght@400;600&display=swap');
+
+h1 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 600;
+}
+
+h2 {
+    font-family: 'Space Grotesk', sans-serif;
+    font-weight: 400;
+}
+
+h3, h4, h5, h6 {
+    font-family: 'Crimson Text';
+}
