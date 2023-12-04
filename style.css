@@ -1,6 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Music&display=swap');
+
 html{
     max-width: 100%;
     overflow-x: hidden;
+}
+
+nav {
+    background-color: #FFF4E3 !important;
+}
+
+body {
+    background-color: #FFFCF7;
+}
+
+.dropdown-item, .nav-link {
+    color: #0095e0 !important
+}
+
+/* nav > div > div > ul > li > ul > li > a {
+    color: #44cdff !important;
+} */
+
+.dropdown-menu {
+    background-color: #E0F4FF;
+}
+
+.dropdown-item:hover {
+    background-color: #cfeeff;
 }
 
 img {
@@ -11,11 +37,11 @@ h1, h2 {
     color: #002454;
 }
 
-h4, h6 {
-    color: #00439c
+h3, h4, h5, h6 {
+    color: #00439c;
 }
 
-h4 > a, h6 > a, h1 > a{
+h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a{
     color: inherit;
     font-weight: bold;
     font-style: italic;
