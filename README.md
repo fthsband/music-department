@@ -2,7 +2,7 @@
 
 Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
-- Lines of code: 897
+- Lines of code: 1013
 
 # CHANGELOG
 
@@ -53,7 +53,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - philosophy.html -
 - - rules.html - 
 - - marching.html -
-- - pit.html - 
+- - pit.html - 116
 - - awards.html -
 - - musicparents.html -
 - - pep.html -
