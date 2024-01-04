@@ -2,7 +2,15 @@
 
 Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
+- Lines of code: 897
+
 # CHANGELOG
+
+- 01032024 @ 2129 Day 10
+- - "Dress Code" page complete
+- - "Pit Orchestra" page complete
+- - Added code line count
+- - Added attendance form iframe
 
 - 01022024 @ 2112 Day 9
 - - "About Mr. Gattsek" page complete
@@ -23,8 +31,34 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Styled navbar
 
 # TO-DO
+
 - - "Dress Code” page HIGHEST priority
 - - Choose images to use, clearly I can’t use all of them
 - - Fix wording on Past Performances
 - - Fade in animation?
 - - Mobile support
+- - Make interest form
+
+# CODE LINE BREAKDOWN
+
+- - index.html - 107
+- - links.html - 118
+- - about.html - 122
+- - performances.html - 111
+- - attendance.html - 153
+- - dresscode.html - 272
+- - grading.html - 
+- - leadership.html -
+- - procedure.html -
+- - philosophy.html -
+- - rules.html - 
+- - marching.html -
+- - pit.html - 
+- - awards.html -
+- - musicparents.html -
+- - pep.html -
+- - theory.html - 
+- - style.css - 
+- - styled.css - 14
+- - scripts.js -
+- - README.md - 
