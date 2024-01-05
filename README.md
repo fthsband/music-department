@@ -2,9 +2,14 @@
 
 Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
-- Lines of code: 1013
+- Lines of code: 1250
 
 # CHANGELOG
+
+- 01042024 @ 2002 Day 11
+- - "Philosophy" page complete
+- - "Music Parents" page complete
+- - "Grading" page started
 
 - 01032024 @ 2129 Day 10
 - - "Dress Code" page complete
@@ -32,7 +37,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # TO-DO
 
-- - "Dress Code” page HIGHEST priority
+- - "Grading" page HIGHEST priority
 - - Choose images to use, clearly I can’t use all of them
 - - Fix wording on Past Performances
 - - Fade in animation?
@@ -50,12 +55,12 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - grading.html - 
 - - leadership.html -
 - - procedure.html -
-- - philosophy.html -
+- - philosophy.html - 126
 - - rules.html - 
 - - marching.html -
 - - pit.html - 116
 - - awards.html -
-- - musicparents.html -
+- - musicparents.html - 111
 - - pep.html -
 - - theory.html - 
 - - style.css - 
