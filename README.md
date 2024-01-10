@@ -6,6 +6,10 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # CHANGELOG
 
+- 01102024 @ 1039 Day 12
+- - Credited Charlotte for future images
+- - Added honors band logos links.html
+
 - 01042024 @ 2002 Day 11
 - - "Philosophy" page complete
 - - "Music Parents" page complete
@@ -47,7 +51,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 # CODE LINE BREAKDOWN
 
 - - index.html - 107
-- - links.html - 118
+- - links.html - 148
 - - about.html - 122
 - - performances.html - 111
 - - attendance.html - 153
