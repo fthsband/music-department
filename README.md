@@ -2,9 +2,15 @@
 
 Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
-- Lines of code: 1250
+- Lines of code: 1549
 
 # CHANGELOG
+
+- 01122024 @ 1848 Day 14
+- - "Grading" page complete
+- - "Rules" page complete
+- - Worked on "Leadership" page
+- - Fixed FTMPA page links not working
 
 - 01112024 @ 2307 Day 13
 - - Worked on "Grading" page
@@ -59,11 +65,11 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - performances.html - 111
 - - attendance.html - 153
 - - dresscode.html - 272
-- - grading.html - 
+- - grading.html - 175
 - - leadership.html -
 - - procedure.html -
 - - philosophy.html - 126
-- - rules.html - 
+- - rules.html - 124
 - - marching.html -
 - - pit.html - 116
 - - awards.html -
