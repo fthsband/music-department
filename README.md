@@ -6,6 +6,12 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # CHANGELOG
 
+- 01142024 @ 2153 Day 15
+- - Fixed period spacing issues
+- - "Leadership" page complete
+- - Reduced size of footer
+- - Worked on "Procedure" page
+
 - 01122024 @ 1848 Day 14
 - - "Grading" page complete
 - - "Rules" page complete
@@ -50,12 +56,12 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # TO-DO
 
-- - "Grading" page HIGHEST priority
+- - "Procedure" page HIGHEST priority
 - - Choose images to use, clearly I can’t use all of them
 - - Fix wording on Past Performances
 - - Fade in animation?
 - - Mobile support
-- - Make interest form
+- - Get interest form approved
 
 # CODE LINE BREAKDOWN
 
@@ -66,7 +72,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - attendance.html - 153
 - - dresscode.html - 272
 - - grading.html - 175
-- - leadership.html -
+- - leadership.html - 168
 - - procedure.html -
 - - philosophy.html - 126
 - - rules.html - 124
