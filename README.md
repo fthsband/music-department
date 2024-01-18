@@ -6,9 +6,13 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # CHANGELOG
 
+- 01182024 @ 1155 Day 17
+- - Worked on "Marching Band" page
+- - Added Leadership Team to "Leadership" page
+- - Fixed "Procedure" page spacing in editor (no visual changes)
+
 - 01172024 @ 1137 Day 16
 - - "Procedure" page complete
-- - 
 
 - 01142024 @ 2153 Day 15
 - - Fixed period spacing issues
@@ -76,11 +80,11 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - attendance.html - 153
 - - dresscode.html - 272
 - - grading.html - 175
-- - leadership.html - 168
-- - procedure.html -
+- - leadership.html - 241
+- - procedure.html - 210
 - - philosophy.html - 126
 - - rules.html - 124
-- - marching.html -
+- - marching.html - 
 - - pit.html - 116
 - - awards.html -
 - - musicparents.html - 111
