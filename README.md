@@ -6,6 +6,11 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # CHANGELOG
 
+- 01222024 @ 1039 Day 18
+- - "Marching Band" page complete
+- - Fixed Leadership Team issues
+- - (Hopefully) fixed mobile iframe visual bugs
+
 - 01182024 @ 1155 Day 17
 - - Worked on "Marching Band" page
 - - Added Leadership Team to "Leadership" page
@@ -64,12 +69,15 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # TO-DO
 
-- - "Procedure" page HIGHEST priority
+- - "Music Theory / IB" page HIGHEST priority
 - - Choose images to use, clearly I can’t use all of them
+- - - Use said images on sides of pages
+- - - Use said images in the middle of long text walls
 - - Fix wording on Past Performances
 - - Fade in animation?
 - - Mobile support
 - - Get interest form approved
+- - Fix list spacing (check "Dress Code" page for inspiration)
 
 # CODE LINE BREAKDOWN
 
