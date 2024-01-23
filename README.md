@@ -4,7 +4,15 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 - Lines of code: 1549
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 # CHANGELOG
+
+- 01232024 @ 1150 Day 19
+- - "IB / Theory" page complete
+- - "PEP" page complete
+- - fixed a lot of spacing
+- - fixed procedure page link
 
 - 01222024 @ 1039 Day 18
 - - "Marching Band" page complete
@@ -67,9 +75,11 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Turned brand into png file for transparency
 - - Styled navbar
 
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+
 # TO-DO
 
-- - "Music Theory / IB" page HIGHEST priority
+- - "Awards" page HIGHEST priority
 - - Choose images to use, clearly I can’t use all of them
 - - - Use said images on sides of pages
 - - - Use said images in the middle of long text walls
@@ -78,6 +88,8 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Mobile support
 - - Get interest form approved
 - - Fix list spacing (check "Dress Code" page for inspiration)
+
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # CODE LINE BREAKDOWN
 
