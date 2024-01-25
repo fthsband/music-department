@@ -9,13 +9,15 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 # CHANGELOG
 
 - 01252024 @ 0920 Day 20
-- -  stuff
+- - Form complete
+- - "Special Thanks" page complete
+- - Fixed spacing
 
 - 01232024 @ 1150 Day 19
 - - "IB / Theory" page complete
 - - "PEP" page complete
-- - fixed a lot of spacing
-- - fixed procedure page link
+- - Fixed a lot of spacing
+- - Fixed procedure page link
 
 - 01222024 @ 1039 Day 18
 - - "Marching Band" page complete
@@ -89,7 +91,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Fix wording on Past Performances
 - - Fade in animation?
 - - Mobile support
-- - Get interest form approved
+- - Add interest form qr 
 - - Fix list spacing (check "Dress Code" page for inspiration)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
