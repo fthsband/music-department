@@ -13,6 +13,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - "Special Thanks" page complete
 - - Fixed spacing
 - - Added QR code
+- - Added full lifespan of website to README
 
 - 01232024 @ 1150 Day 19
 - - "IB / Theory" page complete
@@ -50,12 +51,12 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 - 01102024 @ 1039 Day 12
 - - Credited Charlotte for future images
-- - Added honors band logos links.html
+- - Added honors band logos to "Links" page
 
 - 01042024 @ 2002 Day 11
 - - "Philosophy" page complete
 - - "Music Parents" page complete
-- - "Grading" page started
+- - Worked on "Grading" page
 
 - 01032024 @ 2129 Day 10
 - - "Dress Code" page complete
@@ -66,20 +67,40 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - 01022024 @ 2112 Day 9
 - - "About Mr. Gattsek" page complete
 - - "Attendance Policy" page complete
-- - fixed margin on "Performances" page
-- - added days of work to changelog
+- - Fixed margin on "Performances" page
+- - Added days of work to changelog
 
-- 12112023 Day 8
+- 12192023 Day 8
+- - Fixed spacing
+
+- 12112023 Day 7
 - - Fixed "return to top" link
 
-- 12052023 Day 7
+- 12082023 Day 6
+- - Deleted "Ensembles" page
+
+- 12052023 Day 5
 - - Reduced size of "return to top" link
 
-- 11302023 @ 2309 Day 6
+- 12042023 Day 4
+- - Fixed spacing issues
+- - Deleted "Policies" page
+
+- 11302023 Day 3
 - - Create README.md
 - - Styled pages
 - - Turned brand into png file for transparency
 - - Styled navbar
+
+- 11292023 Day 2
+- - Added images
+- - Added "return to top" link
+- - Added navbar
+- - Added footer
+
+- 11282023 Day 1
+- - Added files
+- - Worked on "Index" page
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
