@@ -12,6 +12,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Form complete
 - - "Special Thanks" page complete
 - - Fixed spacing
+- - Added QR code
 
 - 01232024 @ 1150 Day 19
 - - "IB / Theory" page complete
@@ -85,13 +86,12 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 # TO-DO
 
 - - "Awards" page HIGHEST priority
-- - Choose images to use, clearly I can’t use all of them
+- - Choose images to use, clearly I can't use all of them
 - - - Use said images on sides of pages
 - - - Use said images in the middle of long text walls
 - - Fix wording on Past Performances
 - - Fade in animation?
 - - Mobile support
-- - Add interest form qr 
 - - Fix list spacing (check "Dress Code" page for inspiration)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
