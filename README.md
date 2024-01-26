@@ -14,7 +14,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Fixed more 
 - - Reset lines of code counter
 - - Renamed "Awards" page to "Banquet" page
-- - "Banquet" page started
+- - Worked on "Banquet" page
 
 - 01252024 @ 0920 Day 20
 - - Form complete
