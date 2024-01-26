@@ -2,11 +2,19 @@
 
 Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
-- Lines of code: 1549
+- Lines of code: 14
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # CHANGELOG
+
+- 01262024 @ 1040 Day 21
+- - Fixed QR code
+- - Added blank targets to links
+- - Fixed more 
+- - Reset lines of code counter
+- - Renamed "Awards" page to "Banquet" page
+- - "Banquet" page started
 
 - 01252024 @ 0920 Day 20
 - - Form complete
@@ -106,37 +114,37 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # TO-DO
 
-- - "Awards" page HIGHEST priority
+- - "Banquet" page HIGHEST priority
 - - Choose images to use, clearly I can't use all of them
 - - - Use said images on sides of pages
 - - - Use said images in the middle of long text walls
-- - Fix wording on Past Performances
+- - Fix wording on "Past Performances" page
+- - Fix spacing on "Procedure" page"
 - - Fade in animation?
 - - Mobile support
-- - Fix list spacing (check "Dress Code" page for inspiration)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # CODE LINE BREAKDOWN
 
-- - index.html - 107
-- - links.html - 148
-- - about.html - 122
-- - performances.html - 111
-- - attendance.html - 153
-- - dresscode.html - 272
-- - grading.html - 175
-- - leadership.html - 241
-- - procedure.html - 210
-- - philosophy.html - 126
-- - rules.html - 124
-- - marching.html - 
-- - pit.html - 116
-- - awards.html -
-- - musicparents.html - 111
+- - index.html -
+- - links.html -
+- - about.html -
+- - performances.html -
+- - attendance.html -
+- - dresscode.html -
+- - grading.html -
+- - leadership.html -
+- - procedure.html -
+- - philosophy.html -
+- - rules.html -
+- - marching.html -
+- - pit.html -
+- - banquet.html -
+- - musicparents.html -
 - - pep.html -
-- - theory.html - 
-- - style.css - 
+- - theory.html -
+- - style.css -
 - - styled.css - 14
 - - scripts.js -
-- - README.md - 
+- - README.md -
