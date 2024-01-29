@@ -5,3 +5,4 @@ let D = getComputedStyle(A);
 console.log(C.height);
 console.log(D.height);
 A.style.height = window.outerHeight - parseFloat(C.height) + "px";
+

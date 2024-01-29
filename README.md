@@ -8,6 +8,9 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # CHANGELOG
 
+- 01292024 @ 1154 Day 22
+- - fade in ig
+
 - 01262024 @ 1040 Day 21
 - - Fixed QR code
 - - Added blank targets to links
@@ -120,7 +123,6 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - - Use said images in the middle of long text walls
 - - Fix wording on "Past Performances" page
 - - Fix spacing on "Procedure" page"
-- - Fade in animation?
 - - Mobile support
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -

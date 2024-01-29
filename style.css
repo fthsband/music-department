@@ -1,5 +1,33 @@
 @import url('https://fonts.googleapis.com/css2?family=Noto+Music&display=swap');
 
+.container-full {
+    opacity: 0%;
+    animation-name: fade-in;
+    animation-duration: 0.5s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+}
+
+.dropdown-menu {
+    opacity: 0%;
+    animation-name: fade-in;
+    animation-duration: 0.25s;
+    animation-timing-function: ease-in;
+    animation-fill-mode: forwards;
+    animation-iteration-count: 1;
+}
+
+@keyframes fade-in {
+    0% {
+        opacity: 0%;
+    }
+    100%{
+        opacity: 100%;
+    }
+}
+
+
 html{
     max-width: 100%;
     overflow-x: hidden;
