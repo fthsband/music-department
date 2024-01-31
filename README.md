@@ -8,16 +8,20 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # CHANGELOG
 
-- 01292024 @ 2035 Day 22
-- - Cut down on pictures
+- 01312024 @ 1040 Day 23
+- - Fixed wording on "Past Performances" page
+- - Fixed spacing on "Procedure" page"
+- - Added Favicon
 
-- 01292024 @ 1154 Day 22
-- - fade in ig
+- 01292024 @ 1154 Day 22 AM
+- - Fade in animation
+- 01292024 @ 2035 Day 22 PM
+- - Cut down on pictures
 
 - 01262024 @ 1040 Day 21
 - - Fixed QR code
 - - Added blank targets to links
-- - Fixed more 
+- - Fixed more spacing
 - - Reset lines of code counter
 - - Renamed "Awards" page to "Banquet" page
 - - Worked on "Banquet" page
@@ -124,13 +128,10 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Choose images to use, clearly I can't use all of them
 - - - Use said images on sides of pages
 - - - Use said images in the middle of long text walls
-- - Fix wording on "Past Performances" page
-- - Fix spacing on "Procedure" page"
 - - Mobile support
 
 - - picture stuff
-- - - choose flute, percussion, clarinet, trumpet, tuba pictures
-- - - 
+- - - choose flute, percussion, clarinet, trumpet, tuba, saxophone pictures
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
