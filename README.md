@@ -8,6 +8,9 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # CHANGELOG
 
+- 01292024 @ 2035 Day 22
+- - Cut down on pictures
+
 - 01292024 @ 1154 Day 22
 - - fade in ig
 
@@ -124,6 +127,10 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Fix wording on "Past Performances" page
 - - Fix spacing on "Procedure" page"
 - - Mobile support
+
+- - picture stuff
+- - - choose flute, percussion, clarinet, trumpet, tuba pictures
+- - - 
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
