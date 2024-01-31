@@ -12,6 +12,8 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Fixed wording on "Past Performances" page
 - - Fixed spacing on "Procedure" page"
 - - Added Favicon
+- 01312024 @ 1726
+- - Finally finished "Banquet" page
 
 - 01292024 @ 1154 Day 22 AM
 - - Fade in animation
@@ -129,6 +131,8 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - - Use said images on sides of pages
 - - - Use said images in the middle of long text walls
 - - Mobile support
+
+
 
 - - picture stuff
 - - - choose flute, percussion, clarinet, trumpet, tuba, saxophone pictures
