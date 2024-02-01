@@ -8,6 +8,9 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # CHANGELOG
 
+- 02012024 @ 1154 Day 24
+- - img stuff
+
 - 01312024 @ 1040 Day 23
 - - Fixed wording on "Past Performances" page
 - - Fixed spacing on "Procedure" page"
