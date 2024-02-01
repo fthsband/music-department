@@ -14,6 +14,8 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Added Favicon
 - 01312024 @ 1726
 - - Finally finished "Banquet" page
+- 01312024 @ 2010 
+- - Deleted more pictures
 
 - 01292024 @ 1154 Day 22 AM
 - - Fade in animation
@@ -136,6 +138,8 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 - - picture stuff
 - - - choose flute, percussion, clarinet, trumpet, tuba, saxophone pictures
+- - - crop me out of Marlboro Game/clarinets1
+- - - crop other pictures from other pictures folder
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
