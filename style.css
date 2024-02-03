@@ -58,8 +58,14 @@ body {
     background-color: #cfeeff;
 }
 
-img {
+.branded-img {
     height: 56px;
+}
+
+.side-img {
+    width: 150%;
+    border: 2px solid #44cdff;
+    border-radius: 25px;
 }
 
 h1, h2 {
