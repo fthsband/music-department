@@ -2,14 +2,21 @@
 
 Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
-- Lines of code: 14
+- Lines of code: 112
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # CHANGELOG
 
+- 02032024 @ 1345 Day 25
+- - added and removed section pictures
+- - funny joe picture
+- - added gattsek
+- - secret page teehee :3
+
 - 02012024 @ 1154 Day 24
 - - img stuff
+- - fixed column sizing on smaller devices
 
 - 01312024 @ 1040 Day 23
 - - Fixed wording on "Past Performances" page
@@ -165,7 +172,9 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - musicparents.html -
 - - pep.html -
 - - theory.html -
+- - funny.html - 94
 - - style.css -
 - - styled.css - 14
+- - lol.css - 4
 - - scripts.js -
 - - README.md -
