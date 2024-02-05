@@ -68,6 +68,12 @@ body {
     border-radius: 25px;
 }
 
+.intext-img {
+    width: 100%;
+    border: 2px solid #44cdff;
+    border-radius: 25px;
+}
+
 h1, h2 {
     color: #002454;
 }

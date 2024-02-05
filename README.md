@@ -2,21 +2,25 @@
 
 Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
-- Lines of code: 112
+- Lines of code: 434
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # CHANGELOG
 
+- 02052024 @ 0929 Day 26
+- - Used section pictures
+- - Spacing
+
 - 02032024 @ 1345 Day 25
-- - added and removed section pictures
-- - funny joe picture
-- - added gattsek
-- - secret page teehee :3
+- - Added and removed section pictures
+- - Added Joe collage
+- - Added picture of Mr. Gattsek
+- - Added secret page teehee :3
 
 - 02012024 @ 1154 Day 24
-- - img stuff
-- - fixed column sizing on smaller devices
+- - Img stuff
+- - Fixed column sizing on smaller devices
 
 - 01312024 @ 1040 Day 23
 - - Fixed wording on "Past Performances" page
@@ -138,18 +142,14 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # TO-DO
 
-- - "Banquet" page HIGHEST priority
+- - Create Google Calendar video
+- - Mobile support
+
 - - Choose images to use, clearly I can't use all of them
 - - - Use said images on sides of pages
 - - - Use said images in the middle of long text walls
-- - Mobile support
-
-
-
-- - picture stuff
-- - - choose flute, percussion, clarinet, trumpet, tuba, saxophone pictures
-- - - crop me out of Marlboro Game/clarinets1
-- - - crop other pictures from other pictures folder
+- - - Choose low brass img
+- - - Get student execs, field captains, morale
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -162,7 +162,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - attendance.html -
 - - dresscode.html -
 - - grading.html -
-- - leadership.html -
+- - leadership.html - 322
 - - procedure.html -
 - - philosophy.html -
 - - rules.html -
