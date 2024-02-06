@@ -8,6 +8,10 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # CHANGELOG
 
+- 02062024 @ 1040 Day 27
+- - Added pictures to "About Mr. Gattsek" page
+- - Added more pictures in general
+
 - 02052024 @ 0929 Day 26
 - - Used section pictures
 - - Spacing
@@ -16,7 +20,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Added and removed section pictures
 - - Added Joe collage
 - - Added picture of Mr. Gattsek
-- - Added secret page teehee :3
+- - ~~Added secret page teehee :3~~
 
 - 02012024 @ 1154 Day 24
 - - Img stuff
@@ -149,15 +153,15 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - - Use said images on sides of pages
 - - - Use said images in the middle of long text walls
 - - - Choose low brass img
-- - - Get student execs, field captains, morale
+- - - Get student execs, ~~field captains~~, morale
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # CODE LINE BREAKDOWN
 
-- - index.html -
-- - links.html -
-- - about.html -
+- - index.html - 115
+- - links.html - 152
+- - about.html - 147
 - - performances.html -
 - - attendance.html -
 - - dresscode.html -
