@@ -2,7 +2,7 @@
 
 Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
-- Lines of code: 434
+- Lines of code: 858
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -11,6 +11,10 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - 02062024 @ 1040 Day 27
 - - Added pictures to "About Mr. Gattsek" page
 - - Added more pictures in general
+- 02062024 @ 2050
+- - Spacing
+- - Picture organizing
+- - Used more pictures
 
 - 02052024 @ 0929 Day 26
 - - Used section pictures
@@ -147,19 +151,17 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 # TO-DO
 
 - - Create Google Calendar video
-- - Mobile support
 
 - - Choose images to use, clearly I can't use all of them
 - - - Use said images on sides of pages
-- - - Use said images in the middle of long text walls
 - - - Choose low brass img
-- - - Get student execs, ~~field captains~~, morale
+- - - Get student execs, morale
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # CODE LINE BREAKDOWN
 
-- - index.html - 115
+- - index.html - 125
 - - links.html - 152
 - - about.html - 147
 - - performances.html -

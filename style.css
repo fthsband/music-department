@@ -170,9 +170,15 @@ h1 > a, h2 > a, h3 > a, h4 > a, h5 > a, h6 > a{
     color: #fffcf8;
 }
 
-
-
 .inline-block{
     display: inline;
     text-align: center;
+}
+
+.spacing-hr {
+    color: #fffcf7;
+}
+
+.fb-page, blockquote{
+    border: 2px solid #002454;
 }
