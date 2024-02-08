@@ -2,14 +2,20 @@
 
 Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
-- Lines of code: 858
+- Lines of code: 862
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
 # CHANGELOG
 
 - 02072024 @ 1155 Day 28
-- - img
+- - Image placement
+- 02072024 @ 2330
+- - Developer update
+- - Image placement
+- - Added directories to any mention of files
+- - Added image library file
+- - Added more images
 
 - 02062024 @ 1040 Day 27
 - - Added pictures to "About Mr. Gattsek" page
@@ -164,26 +170,28 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 # CODE LINE BREAKDOWN
 
-- - index.html - 125
-- - links.html - 152
-- - about.html - 147
-- - performances.html -
-- - attendance.html -
-- - dresscode.html -
-- - grading.html -
-- - leadership.html - 322
-- - procedure.html -
-- - philosophy.html -
-- - rules.html -
-- - marching.html -
-- - pit.html -
-- - banquet.html -
-- - musicparents.html -
-- - pep.html -
-- - theory.html -
-- - funny.html - 94
-- - style.css -
-- - styled.css - 14
-- - lol.css - 4
-- - scripts.js -
-- - README.md -
+- - root/index.html - 125
+- - root/links.html - 152
+- - root/about.html - 147
+- - root/performances.html -
+- - root/policies/attendance.html -
+- - root/policies/dresscode.html -
+- - root/policies/grading.html -
+- - root/policies/leadership.html - 322
+- - root/policies/procedure.html -
+- - root/policies/rules/philosophy.html -
+- - root/policies/rules/rules.html -
+- - root/policies/ensembles/marching.html -
+- - root/policies/ensembles/pit.html -
+- - root/ftmpa/banquet.html -
+- - root/ftmpa/musicparents.html -
+- - root/classes/pep.html -
+- - root/classes/theory.html -
+- - root/funny.html - 96
+- - root/style.css -
+- - root/styled.css - 14
+- - root/lol.css - 6
+- - root/scripts.js -
+- - root/README.md -
+- - root/dev/requiredYearlyEdits.md - 
+- - root/dev/imgUsage.md - 87

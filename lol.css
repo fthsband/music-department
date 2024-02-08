@@ -1,4 +1,6 @@
 .lol{
     color:#ffaaff !important;
     font-family: "Comic Sans", cursive !important;
+    text-shadow: -2px 2px 10px black;
+    -webkit-text-stroke: 1px #000;
 }
