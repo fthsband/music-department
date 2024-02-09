@@ -6,7 +6,14 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-# CHANGELOG
+CHANGELOG
+
+- 02092024 @ 1040 Day 29
+- - Margin fixes
+- - Fixed image sizes
+- - Cropped parade block
+- - Image placement
+- - root/(dev/)*.md tweaks
 
 - 02072024 @ 1155 Day 28
 - - Image placement
@@ -45,7 +52,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - Added Favicon
 - 01312024 @ 1726
 - - Finally finished "Banquet" page
-- 01312024 @ 2010 
+- 01312024 @ 2010
 - - Deleted more pictures
 
 - 01292024 @ 1154 Day 22 AM
@@ -157,27 +164,25 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-# TO-DO
+TO-DO
 
-- - Create Google Calendar video
-
-- - Choose images to use, clearly I can't use all of them
-- - - Use said images on sides of pages
-- - - Choose low brass img
-- - - Get student execs, morale
+- Create Google Calendar video
+- Use images on sides of pages
+- Choose low brass img
+- Get student execs, morale
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
-# CODE LINE BREAKDOWN
+CODE LINE BREAKDOWN
 
-- - root/index.html - 125
-- - root/links.html - 152
-- - root/about.html - 147
+- - root/index.html -
+- - root/links.html -
+- - root/about.html -
 - - root/performances.html -
 - - root/policies/attendance.html -
 - - root/policies/dresscode.html -
 - - root/policies/grading.html -
-- - root/policies/leadership.html - 322
+- - root/policies/leadership.html -
 - - root/policies/procedure.html -
 - - root/policies/rules/philosophy.html -
 - - root/policies/rules/rules.html -
@@ -193,5 +198,5 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 - - root/lol.css - 6
 - - root/scripts.js -
 - - root/README.md -
-- - root/dev/requiredYearlyEdits.md - 
-- - root/dev/imgUsage.md - 87
+- - root/dev/requiredYearlyEdits.md -
+- - root/dev/imgUsage.md -

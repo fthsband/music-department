@@ -62,11 +62,25 @@ body {
     height: 56px;
 }
 
+.col-6 > .side-img {
+    width: 200%
+}
+
+.ls > .side-img {
+    width: 100% !important;
+}
+
+.st > .side-img {
+    width: 150% !important;
+}
+
 .side-img {
     width: 150%;
     border: 2px solid #44cdff;
     border-radius: 25px;
 }
+
+
 
 .intext-img {
     width: 100%;

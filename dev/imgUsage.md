@@ -1,91 +1,93 @@
-root                                                                                                                |   :file_folder:
-- root/img                                                                                                          |   :file_folder:
-- - root/img/Boro Game                                                                                              |   :file_folder:
-- - - root/img/Boro Game/Candids                                                                                    |   :file_folder:
-- - - - root/img/Boro Game/Candids/percussion candid 1.JPG                                                          |   :white_check_mark: attendance.html
-- - - - root/img/Boro Game/Candids/percussion candid 2.JPG                                                          |   :x:
-- - - - root/img/Boro Game/Candids/saxes candid 1.JPG                                                               |   :white_check_mark: marching.html
-- - - - root/img/Boro Game/Candids/saxes candid 2.JPG                                                               |   :white_check_mark: dresscode.html
-- - - root/img/Boro Game/Sections!!!                                                                                |   :file_folder:
-- - - - root/img/Boro Game/Sections!!!/guard1.jpg                                                                   |   :white_check_mark: leadership.html
-- - - - root/img/Boro Game/Sections!!!/lowbrass1.JPG                                                                |   :x:
-- - - - root/img/Boro Game/Sections!!!/percussion1.JPG                                                              |   :x:
-- - - - root/img/Boro Game/Sections!!!/saxes.JPG                                                                    |   :white_check_mark: leadership.html
-- - - - root/img/Boro Game/Sections!!!/tubas1.JPG                                                                   |   :x:
-- - root/img/Brick Memorial Game                                                                                    |   :file_folder:
-- - - root/img/Brick Memorial Game/Candids-people                                                                   |   :file_folder:
-- - - - root/img/Brick Memorial Game/Candids-people/andrew.JPG                                                      |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/austin 2.JPG                                                    |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/austin and carly 2.JPG                                          |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/austin and carly.JPG                                            |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/austin.JPG                                                      |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/candid clarinets and saxes.JPG                                  |   :white_check_mark: attendance.html
-- - - - root/img/Brick Memorial Game/Candids-people/candid clarinets low brass.JPG                                  |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/candid flutes trumpets low brass.JPG                            |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/candid guard.JPG                                                |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/candid percussion 2.JPG                                         |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/candid percussion 3.JPG                                         |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/candid percussion and trumpets.JPG                              |   :white_check_mark: marching.html
-- - - - root/img/Brick Memorial Game/Candids-people/candid percussion.JPG                                           |   :white_check_mark: marching.html
-- - - - root/img/Brick Memorial Game/Candids-people/candid saxes 2.JPG                                              |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/candid saxes.JPG                                                |   :white_check_mark: dresscode.html
-- - - - root/img/Brick Memorial Game/Candids-people/candid trumpets.JPG                                             |   :white_check_mark: attendance.html
-- - - - root/img/Brick Memorial Game/Candids-people/crawford.JPG                                                    |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/ed.JPG                                                          |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/gattsek.JPG                                                     |   :white_checkmark: about.html
-- - - - root/img/Brick Memorial Game/Candids-people/greg.JPG                                                        |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/guard.JPG                                                       |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/jack.JPG                                                        |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/lila.JPG                                                        |   :x:
-- - - - root/img/Brick Memorial Game/Candids-people/nikola.JPG                                                      |   :x:
-- - - root/img/Brick Memorial Game/Sections                                                                         |   :file_folder:
-- - - - root/img/Brick Memorial Game/Sections/clarinets2.JPG                                                        |   :white_check_mark: leadership.html
-- - - - root/img/Brick Memorial Game/Sections/lowbrass and saxes1.JPG                                               |   :x:
-- - - - root/img/Brick Memorial Game/Sections/lowbrass and saxes2.JPG                                               |   :x:
-- - - - root/img/Brick Memorial Game/Sections/percussion1.JPG                                                       |   :x:
-- - - - root/img/Brick Memorial Game/Sections/tubas1.JPG                                                            |   :x:
-- - root/img/Marlboro Game                                                                                          |   :file_folder:
-- - - root/img/Marlboro Game/austin 2.JPG                                                                           |   :x:
-- - - root/img/Marlboro Game/austin.JPG                                                                             |   :x:
-- - - root/img/Marlboro Game/candid clarinet low trombone.JPG                                                       |   :x:
-- - - root/img/Marlboro Game/candid flute percussion trumpet.JPG                                                    |   :x:
-- - - root/img/Marlboro Game/candid low brass 2.JPG                                                                 |   :x:
-- - - root/img/Marlboro Game/candid low brass.JPG                                                                   |   :x:
-- - - root/img/Marlboro Game/candid low reeds brass.JPG                                                             |   :white_check_mark: marching.html
-- - - root/img/Marlboro Game/candid percussion flute.JPG                                                            |   :white_check_mark: attendance.html
-- - - root/img/Marlboro Game/candid saxes.JPG                                                                       |   :x:
-- - - root/img/Marlboro Game/candid trumpets.JPG                                                                    |   :x:
-- - - root/img/Marlboro Game/drum majors.JPG                                                                        |   :white_check_mark: root/policies/leadership.html
-- - - root/img/Marlboro Game/michael.JPG                                                                            |   :x:
-- - - root/img/Marlboro Game/talia 2.JPG                                                                            |   :x:
-- - - root/img/Marlboro Game/talia.JPG                                                                              |   :x:
-- - root/img/Ocean Game                                                                                             |   :file_folder:
-- - - root/img/Ocean Game/candid clarinets.JPG                                                                      |   :x:
-- - - root/img/Ocean Game/candid low brass.JPG                                                                      |   :x:
-- - - root/img/Ocean Game/candid trombone football.JPG                                                              |   :white_check_mark: root/policies/ensembles/marching.html
-- - - root/img/Ocean Game/lowbrass1.JPG                                                                             |   :x:
-- - root/img/other pictures                                                                                         |   :file_folder:
-- - - root/img/other pictures/stuff i wont use but are too good to not have in the website folder                   |   :file_folder:
-- - - - root/img/other pictures/stuff i wont use but are too good to not have in the website folder/andrew.JPG      |   :x:
-- - - - root/img/other pictures/stuff i wont use but are too good to not have in the website folder/how.JPG         |   :x:
-- - - - root/img/other pictures/stuff i wont use but are too good to not have in the website folder/joequette.JPG   |   :white_check_mark: root/funny.html
-- - - root/img/other pictures/candid saxes and high reeds.jpg                                                       |   :white_check_mark: root/policies/dresscode.html
-- - - root/img/other pictures/concert band.jpg                                                                      |   :white_check_mark: root/about.html
-- - - root/img/other pictures/contributors page jfarrell.png                                                        |   :white_check_mark: root/specialthanks.html
-- - - root/img/other pictures/courthouse 2023-24.jpg                                                                |   :white_check_mark: root/index.html
-- - - root/img/other pictures/ewf onfield.jpg                                                                       |   :x:
-- - - root/img/other pictures/flutes.jpg                                                                            |   :white_check_mark: root/policies/leadership.html
-- - - root/img/other pictures/fullband.jpg                                                                          |   :x:
-- - - root/img/other pictures/liberty state park 1.PNG                                                              |   :white_check_mark: root/about.html
-- - - root/img/other pictures/liberty state park 2.PNG                                                              |   :x:
-- - - root/img/other pictures/parade block.PNG                                                                      |   :x:
-- - - root/img/other pictures/percussion.jpg                                                                        |   :white_check_mark: root/policies/leadership.html
-- - - root/img/other pictures/seniors.jpg                                                                           |   :white_check_mark: root/policies/leadership.html
-- - - root/img/other pictures/spooktacular 2023-24.jpg                                                              |   :white_check_mark: root/policies/ensembles/marching.html
-- - - root/img/other pictures/trumpets.JPEG                                                                         |   :white_check_mark: root/policies/leadership.html
-- - - root/img/other pictures/willywonka onfield.jpg                                                                |   :white_check_mark: root/policies/ensembles/marching.html
-- - root/img/asbda-logo.png                                                                                         |   :white_check_mark: root/links.html
-- - root/img/cjmea-logo.png                                                                                         |   :white_check_mark: root/links.html
-- - root/img/ftmd_logo.png                                                                                          |   :white_check_mark: navbar
-- - root/img/njmea-logo.png                                                                                         |   :white_check_mark: root/links.html
-- - root/img/qrcode_docs.google.com.png                                                                             |   :white_check_mark: root/index.html
+# img directory
+
+- root                                                                                                                |   :file_folder:
+- - root/img                                                                                                          |   :file_folder:
+- - - root/img/Boro Game                                                                                              |   :file_folder:
+- - - - root/img/Boro Game/Candids                                                                                    |   :file_folder:
+- - - - - root/img/Boro Game/Candids/percussion candid 1.JPG                                                          |   :white_check_mark: root/policies/attendance.html
+- - - - - root/img/Boro Game/Candids/percussion candid 2.JPG                                                          |   :x:
+- - - - - root/img/Boro Game/Candids/saxes candid 1.JPG                                                               |   :white_check_mark: root/policies/ensembles/marching.html
+- - - - - root/img/Boro Game/Candids/saxes candid 2.JPG                                                               |   :white_check_mark: root/policies/dresscode.html
+- - - - root/img/Boro Game/Sections!!!                                                                                |   :file_folder:
+- - - - - root/img/Boro Game/Sections!!!/guard1.jpg                                                                   |   :white_check_mark: root/policies/leadership.html
+- - - - - root/img/Boro Game/Sections!!!/lowbrass1.JPG                                                                |   :x:
+- - - - - root/img/Boro Game/Sections!!!/percussion1.JPG                                                              |   :x:
+- - - - - root/img/Boro Game/Sections!!!/saxes.JPG                                                                    |   :white_check_mark: root/policies/leadership.html
+- - - - - root/img/Boro Game/Sections!!!/tubas1.JPG                                                                   |   :x:
+- - - root/img/Brick Memorial Game                                                                                    |   :file_folder:
+- - - - root/img/Brick Memorial Game/Candids-people                                                                   |   :file_folder:
+- - - - - root/img/Brick Memorial Game/Candids-people/andrew.JPG                                                      |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/austin 2.JPG                                                    |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/austin and carly 2.JPG                                          |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/austin and carly.JPG                                            |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/austin.JPG                                                      |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/candid clarinets and saxes.JPG                                  |   :white_check_mark: root/policies/attendance.html
+- - - - - root/img/Brick Memorial Game/Candids-people/candid clarinets low brass.JPG                                  |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/candid flutes trumpets low brass.JPG                            |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/candid guard.JPG                                                |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/candid percussion 2.JPG                                         |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/candid percussion 3.JPG                                         |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/candid percussion and trumpets.JPG                              |   :white_check_mark: root/policies/ensembles/marching.html
+- - - - - root/img/Brick Memorial Game/Candids-people/candid percussion.JPG                                           |   :white_check_mark: root/policies/ensembles/marching.html
+- - - - - root/img/Brick Memorial Game/Candids-people/candid saxes 2.JPG                                              |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/candid saxes.JPG                                                |   :white_check_mark: root/policies/dresscode.html
+- - - - - root/img/Brick Memorial Game/Candids-people/candid trumpets.JPG                                             |   :white_check_mark: root/policies/attendance.html
+- - - - - root/img/Brick Memorial Game/Candids-people/crawford.JPG                                                    |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/ed.JPG                                                          |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/gattsek.JPG                                                     |   :white_checkmark: root/about.html
+- - - - - root/img/Brick Memorial Game/Candids-people/greg.JPG                                                        |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/guard.JPG                                                       |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/jack.JPG                                                        |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/lila.JPG                                                        |   :x:
+- - - - - root/img/Brick Memorial Game/Candids-people/nikola.JPG                                                      |   :x:
+- - - - root/img/Brick Memorial Game/Sections                                                                         |   :file_folder:
+- - - - - root/img/Brick Memorial Game/Sections/clarinets2.JPG                                                        |   :white_check_mark: root/policies/leadership.html
+- - - - - root/img/Brick Memorial Game/Sections/lowbrass and saxes1.JPG                                               |   :x:
+- - - - - root/img/Brick Memorial Game/Sections/lowbrass and saxes2.JPG                                               |   :white_check_mark: root/policies/dresscode.html
+- - - - - root/img/Brick Memorial Game/Sections/percussion1.JPG                                                       |   :x:
+- - - - - root/img/Brick Memorial Game/Sections/tubas1.JPG                                                            |   :x:
+- - - root/img/Marlboro Game                                                                                          |   :file_folder:
+- - - - root/img/Marlboro Game/austin 2.JPG                                                                           |   :x:
+- - - - root/img/Marlboro Game/austin.JPG                                                                             |   :x:
+- - - - root/img/Marlboro Game/candid clarinet low trombone.JPG                                                       |   :white_check_mark: root/policies/dresscode.html
+- - - - root/img/Marlboro Game/candid flute percussion trumpet.JPG                                                    |   :x:
+- - - - root/img/Marlboro Game/candid low brass 2.JPG                                                                 |   :x:
+- - - - root/img/Marlboro Game/candid low brass.JPG                                                                   |   :x:
+- - - - root/img/Marlboro Game/candid low reeds brass.JPG                                                             |   :white_check_mark: root/policies/ensembles/marching.html
+- - - - root/img/Marlboro Game/candid percussion flute.JPG                                                            |   :white_check_mark: root/policies/attendance.html
+- - - - root/img/Marlboro Game/candid saxes.JPG                                                                       |   :x:
+- - - - root/img/Marlboro Game/candid trumpets.JPG                                                                    |   :x:
+- - - - root/img/Marlboro Game/drum majors.JPG                                                                        |   :white_check_mark: root/policies/leadership.html
+- - - - root/img/Marlboro Game/michael.JPG                                                                            |   :x:
+- - - - root/img/Marlboro Game/talia 2.JPG                                                                            |   :x:
+- - - - root/img/Marlboro Game/talia.JPG                                                                              |   :x:
+- - - root/img/Ocean Game                                                                                             |   :file_folder:
+- - - - root/img/Ocean Game/candid clarinets.JPG                                                                      |   :white_check_mark: root/policies/dresscode.html
+- - - - root/img/Ocean Game/candid low brass.JPG                                                                      |   :white_check_mark: root/policies/dresscode.html
+- - - - root/img/Ocean Game/candid trombone football.JPG                                                              |   :white_check_mark: root/policies/ensembles/marching.html
+- - - - root/img/Ocean Game/lowbrass1.JPG                                                                             |   :x:
+- - - root/img/other pictures                                                                                         |   :file_folder:
+- - - - root/img/other pictures/stuff i wont use but are too good to not have in the website folder                   |   :file_folder:
+- - - - - root/img/other pictures/stuff i wont use but are too good to not have in the website folder/andrew.JPG      |   :x:
+- - - - - root/img/other pictures/stuff i wont use but are too good to not have in the website folder/how.JPG         |   :x:
+- - - - - root/img/other pictures/stuff i wont use but are too good to not have in the website folder/joequette.JPG   |   :white_check_mark: root/funny.html
+- - - - root/img/other pictures/candid saxes and high reeds.jpg                                                       |   :x:
+- - - - root/img/other pictures/concert band.jpg                                                                      |   :white_check_mark: root/about.html
+- - - - root/img/other pictures/contributors page jfarrell.png                                                        |   :white_check_mark: root/specialthanks.html
+- - - - root/img/other pictures/courthouse 2023-24.jpg                                                                |   :white_check_mark: root/index.html
+- - - - root/img/other pictures/ewf onfield.jpg                                                                       |   :x:
+- - - - root/img/other pictures/flutes.jpg                                                                            |   :white_check_mark: root/policies/leadership.html
+- - - - root/img/other pictures/fullband.jpg                                                                          |   :x:
+- - - - root/img/other pictures/liberty state park 1.PNG                                                              |   :white_check_mark: root/about.html
+- - - - root/img/other pictures/liberty state park 2.PNG                                                              |   :x:
+- - - - root/img/other pictures/parade block.PNG                                                                      |   :white_check_mark: root/policies/dresscode.htmlddd
+- - - - root/img/other pictures/percussion.jpg                                                                        |   :white_check_mark: root/policies/leadership.html
+- - - - root/img/other pictures/seniors.jpg                                                                           |   :white_check_mark: root/policies/leadership.html
+- - - - root/img/other pictures/spooktacular 2023-24.jpg                                                              |   :white_check_mark: root/policies/ensembles/marching.html
+- - - - root/img/other pictures/trumpets.JPEG                                                                         |   :white_check_mark: root/policies/leadership.html
+- - - - root/img/other pictures/willywonka onfield.jpg                                                                |   :white_check_mark: root/policies/ensembles/marching.html
+- - - root/img/asbda-logo.png                                                                                         |   :white_check_mark: root/links.html
+- - - root/img/cjmea-logo.png                                                                                         |   :white_check_mark: root/links.html
+- - - root/img/ftmd_logo.png                                                                                          |   :white_check_mark: root/(policies/(ensembles/)(rules/))(classes/)(ftmpa/)*.html
+- - - root/img/njmea-logo.png                                                                                         |   :white_check_mark: root/links.html
+- - - root/img/qrcode_docs.google.com.png                                                                             |   :white_check_mark: root/index.html
