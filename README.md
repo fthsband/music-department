@@ -8,6 +8,11 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 CHANGELOG
 
+- 02122024 @ 1153 Day 30
+- - Margin fixes
+- - Image placement
+- - Low brass image
+
 - 02092024 @ 1040 Day 29
 - - Margin fixes
 - - Fixed image sizes
@@ -168,8 +173,11 @@ TO-DO
 
 - Create Google Calendar video
 - Use images on sides of pages
-- Choose low brass img
-- Get student execs, morale
+- - Grading
+- - Procedure
+- - Rules
+- - Banquet
+- - Pit (maybe)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
