@@ -181,7 +181,6 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 ## TO-DO
 
-- Create Google Calendar video
 - Use images on sides of pages
 - - Banquet
 
