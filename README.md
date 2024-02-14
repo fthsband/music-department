@@ -8,6 +8,14 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 ## CHANGELOG
 
+- 02142024 @ 0923 Day 31
+- - Margin fixes
+- - Image placement
+[comment] <> (- 02142024 @ 1700)
+[comment] <> (- - Final commit before 02152024 deadline)
+[comment] <> (- - - Thank you for the opportunity to make this website! It was a lot of fun. *-- Joseph Farrell, '24*)
+[comment] <> (- - Remade Google Calendar video)
+
 - 02122024 @ 1153 Day 30
 - - Margin fixes
 - - Image placement
@@ -175,10 +183,7 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 - Create Google Calendar video
 - Use images on sides of pages
-- - Procedure
-- - Rules
 - - Banquet
-- - Pit (maybe)
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
