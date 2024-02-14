@@ -2,7 +2,7 @@
 
 Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
-- Lines of code: 862
+- Lines of code: 4205
 
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 
@@ -188,28 +188,28 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 ## CODE LINE BREAKDOWN
 
-- - root/index.html -
-- - root/links.html -
-- - root/about.html -
-- - root/performances.html -
-- - root/policies/attendance.html -
-- - root/policies/dresscode.html -
-- - root/policies/grading.html -
-- - root/policies/leadership.html -
-- - root/policies/procedure.html -
-- - root/policies/rules/philosophy.html -
-- - root/policies/rules/rules.html -
-- - root/policies/ensembles/marching.html -
-- - root/policies/ensembles/pit.html -
-- - root/ftmpa/banquet.html -
-- - root/ftmpa/musicparents.html -
-- - root/classes/pep.html -
-- - root/classes/theory.html -
+- - root/index.html - 125
+- - root/links.html - 152
+- - root/about.html - 147
+- - root/performances.html - 125
+- - root/policies/attendance.html - 261
+- - root/policies/dresscode.html - 443
+- - root/policies/grading.html - 268
+- - root/policies/leadership.html - 301
+- - root/policies/procedure.html - 310
+- - root/policies/rules/philosophy.html - 141
+- - root/policies/rules/rules.html - 152
+- - root/policies/ensembles/marching.html - 350
+- - root/policies/ensembles/pit.html - 121
+- - root/ftmpa/banquet.html - 235
+- - root/ftmpa/musicparents.html - 118
+- - root/classes/pep.html - 135
+- - root/classes/theory.html - 184
 - - root/funny.html - 96
-- - root/style.css -
+- - root/style.css - 196
 - - root/styled.css - 14
 - - root/lol.css - 6
-- - root/scripts.js -
-- - root/README.md -
-- - root/dev/requiredYearlyEdits.md -
-- - root/dev/imgUsage.md -
+- - root/scripts.js - 7
+- - root/README.md - 216
+- - root/dev/requiredYearlyEdits.md - 9
+- - root/dev/imgUsage.md - 93
