@@ -8,6 +8,9 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 ## CHANGELOG
 
+- 06252024 @ 2243 Day 32
+- - Update Leadership team to 2024-2025 season
+
 - 02142024 @ 0923 Day 31
 - - Margin fixes
 - - Image placement
