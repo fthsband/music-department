@@ -8,15 +8,15 @@ Website for the Freehold Township Music Department. Made by 224jfarrell ('24).
 
 ## CHANGELOG
 
-- MAR/10/2025 @ 26:48
-- - Finally linked up GitBash from VSCode to Github
-- - Optimized code in Index.html
 - 03/10/2025 @ 28:30
 - - Optimized more code in index.html and specialthanks.html
 - - - Added comments in blocks of code to make finding certain parts of the website easier
 - - Edited Contributions Page
 - - - Added *Jack Konar* and their respective contribution photo to Programmers section of specialthanks.html
 - - Added more to index.html, showcasing our band (Currently missing photos as of right now)
+- MAR/10/2025 @ 26:48
+- - Finally linked up GitBash from VSCode to Github
+- - Optimized code in Index.html
 
 - 08/17/2024 @ 22:58
 - - Transfered ownership of website to Jack Konar, '25
